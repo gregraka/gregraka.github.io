@@ -1,2 +1,2 @@
 # gregraka.github.io
-My web site.
+My github repository.
