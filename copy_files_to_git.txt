@@ -1,0 +1,56 @@
+
+echo off
+echo --------------------------------
+echo %DATE%  %TIME%
+echo ________________________________
+echo .
+echo ..
+echo ...
+echo ....
+echo Copying Files from Jekyll playpen to git location ....
+echo ....
+echo ...
+echo ..
+echo .
+echo --------------------------------
+echo Copying Help Center Doc (3 dirs)....
+echo ________________________________
+echo ....
+echo ....
+C:
+cd \Users\grraka\mysite
+echo ....
+echo ....
+copy  \Users\grraka\mysite\*.* U:\github\gregraka.github.io
+echo ....
+echo ....
+copy  \\sashq\root\pub\pubs_xiswork\grraka\prod\v16\eclipse\workspace\calconfig\Preview-Results\DSFcalconfig\HelpCenter\en\calconfig\content\*.* \\sashq\root\dept\www\support\exp\documentation\administration\calconfig\content\
+echo ....
+echo ....
+copy  \\sashq\root\pub\pubs_xiswork\grraka\prod\v16\eclipse\workspace\calconfig\Preview-Results\DSFcalconfig\HelpCenter\en\calconfig\content\images\*.* \\sashq\root\dept\www\support\exp\documentation\administration\calconfig\content\images\
+echo ....
+echo ....
+echo --------------------------------
+echo Copying calconfig.pdf....
+echo ________________________________
+echo \
+echo  \
+echo   \
+echo    \
+echo     \
+echo      \
+echo       \
+echo        \
+copy  \\sashq\root\pub\pubs_xiswork\grraka\prod\v16\eclipse\workspace\calconfig\Preview-Results\DSFcalconfig\PdfOnline\en\calconfig\calconfig.pdf \\sashq\root\dept\www\support\exp\documentation\administration\calconfig.pdf
+echo        /
+echo       /
+echo      /
+echo     /
+echo    /
+echo   /
+echo  /
+echo /
+echo --------------------------------
+echo %DATE%  %TIME%
+echo ________________________________
+pause
