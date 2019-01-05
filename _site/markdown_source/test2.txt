@@ -1,4 +1,39 @@
-This Is a Heading
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test2</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Test2</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Test2" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/markdown_source/test2.txt" />
+<meta property="og:url" content="http://localhost:4000/markdown_source/test2.txt" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/markdown_source/test2.txt","@type":"WebPage","headline":"Test2","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+  
+    <a href="/" >Home</a>
+  
+    <a href="/about.html" >About</a>
+  
+    <a href="/blog.html" >Blog</a>
+  
+    <a href="/staff.html" >Staff</a>
+  
+    <a href="/test.html" >Test</a>
+  
+    <a href="/test2.html" >Test2</a>
+  
+</nav>
+
+    This Is a Heading
 -----------------
 
 This is a paragraph.
@@ -8,3 +43,6 @@ This Is a Second Heading
 
 This is a paragraph.
 
+
+  </body>
+</html>
