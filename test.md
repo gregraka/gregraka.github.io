@@ -1,7 +1,12 @@
-About this Doc
---------------
+---
+layout: default
+title: Test
+---
 
-This is a test.
+Conventions Used in this Doc
+----------------------------
+
+This is a paragraph.
 
 Introduction
 ------------
