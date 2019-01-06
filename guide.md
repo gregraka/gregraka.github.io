@@ -2,15 +2,6 @@
 layout: default
 ---
 
-Welcome to the ownCloud!
-
-Choose one of the following links:
-
-* [I am an administrator](./qs_admins.html)
-* [I am a user](./qs_users.html)
-
-[Markdown Guide](./guide.html)
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
