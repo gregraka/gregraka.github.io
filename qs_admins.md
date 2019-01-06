@@ -5,5 +5,7 @@ title: Quickstart for Administrators
 
 # Quickstart for Administrators
 
-Content for administrators goes here.
+This section is for ownCloud administrators, persons who install and configure the ownCloud server.
+
+
 
