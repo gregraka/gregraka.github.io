@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-user
 title: Quickstart for Users
 ---
 
