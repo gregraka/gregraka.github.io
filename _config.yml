@@ -29,7 +29,8 @@ markdown: kramdown
 # theme: minima
 
 # Greg added:
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-dinky
 
 # Greg added:
 # Enable or disable the site search
