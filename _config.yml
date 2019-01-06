@@ -31,6 +31,11 @@ markdown: kramdown
 # Greg added:
 remote_theme: pmarsceill/just-the-docs
 
+# Greg added:
+# Enable or disable the site search
+search_enabled: true
+
+
 plugins:
   - jekyll-feed
 
