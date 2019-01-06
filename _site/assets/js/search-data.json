@@ -8,23 +8,9 @@
   },
   "1": {
     "id": "1",
-    "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.comYou can find the source code for Minima at GitHub:jekyll /minimaYou can find the source code for Jekyll at GitHub:jekyll /jekyll",
-    "url": "http://localhost:4000/about/",
-    "relUrl": "/about/"
-  },
-  "2": {
-    "id": "2",
     "title": "Home",
     "content": "Focus on writing good documentationJust the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.Get started now View it on GitHubGetting startedDependenciesJust the Docs is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.Quick start: Use as a GitHub Pages remote theme  Add Just the Docs to your Jekyll site’s _config.yml as a remote theme    remote_theme: pmarsceill/just-the-docs        You must have GitHub pages enabled on your repo, one or more markdown files, and a _config.yml file. See an example repository  Local installation: Use the gem-based theme  Install the Ruby Gem    $ gem install just-the-docs        # .. or add it to your your Jekyll site’s Gemfilegem &quot;just-the-docs&quot;        Add Just the Docs to your Jekyll site’s _config.yml    theme: &quot;just-the-docs&quot;        Optional: Initialize search data (creates search-data.json)    $ bundle exec just-the-docs rake search:init        Run you local Jekyll server    $ jekyll serve        # .. or if you're using a Gemfile (bundler)$ bundle exec jekyll serve        Point your web browser to http://localhost:4000",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },
-  "3": {
-    "id": "3",
-    "title": "",
-    "content": "",
-    "url": "http://localhost:4000/index_orig.html",
-    "relUrl": "/index_orig.html"
   }
 }
