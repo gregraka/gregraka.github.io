@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to the ownCloud!
+# Welcome to ownCloud!
 
 Choose one of the following links:
 
