@@ -1,48 +1,139 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Home</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Home" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/","@type":"WebSite","headline":"Home","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+<!DOCTYPE html>
 
-  </head>
-  <body>
-    <nav>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <title>Home - Your awesome title</title>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css">
   
-    <a href="/" class="current">Home</a>
-  
-    <a href="/about.html" >About</a>
-  
-    <a href="/blog.html" >Blog</a>
-  
-    <a href="/staff.html" >Staff</a>
-  
-    <a href="/test.html" >Test</a>
-  
-    <a href="/test2.html" >Test2</a>
-  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <a href="http://localhost:4000" class="site-title fs-6 lh-tight">Your awesome title</a>
+      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <div class="navigation main-nav js-main-nav">
+        <nav>
+  <ul class="navigation-list">
+    
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/about/" class="navigation-list-link">About</a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/index_orig.html" class="navigation-list-link"></a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/404.html" class="navigation-list-link"></a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item active">
+            
+            <a href="http://localhost:4000/" class="navigation-list-link active">Home</a>
+            
+          </li>
+        
+      
+    
+  </ul>
 </nav>
 
-    <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>hello world!</h1>
-  </body>
-</html>
+      </div>
+      <footer role="contentinfo" class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap">
+      <div class="page-header">
+        <div class="main-content">
+          
+          
+        </div>
+      </div>
+      <div class="main-content">
+        
+        <div class="page-content">
+          <h1 class="fs-9" id="focus-on-writing-good-documentation">Focus on writing good documentation</h1>
 
-  </body>
+<p class="fs-6 fw-300">Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.</p>
+
+<p><a href="#getting-started" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Get started now</a> <a href="https://github.com/pmarsceill/just-the-docs" class="btn fs-5">View it on GitHub</a></p>
+
+<hr />
+
+<h2 id="getting-started">Getting started</h2>
+<h3 id="dependencies">Dependencies</h3>
+<p>Just the Docs is built for <a href="https://jekyllrb.com">Jekyll</a>, a static site generator. View the <a href="https://jekyllrb.com/docs/quickstart/">quick start guide</a> for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.</p>
+
+<h3 id="quick-start-use-as-a-github-pages-remote-theme">Quick start: Use as a GitHub Pages remote theme</h3>
+<ol>
+  <li>Add Just the Docs to your Jekyll site’s <code class="highlighter-rouge">_config.yml</code> as a <a href="https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/">remote theme</a>
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">pmarsceill/just-the-docs</span>
+</code></pre></div>    </div>
+    <p><small>You must have GitHub pages enabled on your repo, one or more markdown files, and a <code class="highlighter-rouge">_config.yml</code> file. <a href="https://github.com/pmarsceill/jtd-remote">See an example repository</a></small></p>
+  </li>
+</ol>
+
+<h3 id="local-installation-use-the-gem-based-theme">Local installation: Use the gem-based theme</h3>
+<ol>
+  <li>Install the Ruby Gem
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>gem <span class="nb">install </span>just-the-docs
+</code></pre></div>    </div>
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># .. or add it to your your Jekyll site’s Gemfile</span>
+<span class="s">gem "just-the-docs"</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Add Just the Docs to your Jekyll site’s <code class="highlighter-rouge">_config.yml</code>
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">theme</span><span class="pi">:</span> <span class="s2">"</span><span class="s">just-the-docs"</span>
+</code></pre></div>    </div>
+  </li>
+  <li><em>Optional:</em> Initialize search data (creates <code class="highlighter-rouge">search-data.json</code>)
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>just-the-docs rake search:init
+</code></pre></div>    </div>
+  </li>
+  <li>Run you local Jekyll server
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>jekyll serve
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># .. or if you're using a Gemfile (bundler)</span>
+<span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div>    </div>
+  </li>
+  <li>Point your web browser to <a href="http://localhost:4000">http://localhost:4000</a></li>
+</ol>
+
+
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
 </html>
