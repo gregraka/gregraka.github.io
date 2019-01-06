@@ -15,10 +15,10 @@ fit this scenario, see the [ownCloud Server Administration Manual](https://doc.o
 
 ## Overview
 Installing and configuring the ownCloud server consists of these steps:
-** Verifying that your site meets the system requirements
-** Installing ownCloud server
+* Verifying that your site meets the system requirements
+* Installing ownCloud server
    (This document describes using the install wizard)
-** Enable users to connect
-** Add user accounts
+* Enable users to connect
+* Add user accounts
 
 
