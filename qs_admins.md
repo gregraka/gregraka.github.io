@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-admin
 title: Quickstart for Administrators
 ---
 
