@@ -1,17 +1,17 @@
-current directory: C:/temp/owncloudqs2/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-C:/Ruby25-x64/bin/ruby.exe -r ./siteconf20190105-10952-1mpcx1k.rb extconf.rb
+current directory: C:/temp/owncloudqs3/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+C:/Ruby25-x64/bin/ruby.exe -r ./siteconf20190105-19676-t9u4sh.rb extconf.rb
 creating Makefile
 
-current directory: C:/temp/owncloudqs2/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/temp/owncloudqs3/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: C:/temp/owncloudqs2/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/temp/owncloudqs3/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR="
 generating ruby_http_parser-x64-mingw32.def
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
-current directory: C:/temp/owncloudqs2/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+current directory: C:/temp/owncloudqs3/vendor/bundle/ruby/2.5.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20190105-10952-m37gi7
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20190105-19676-1x5t0da
