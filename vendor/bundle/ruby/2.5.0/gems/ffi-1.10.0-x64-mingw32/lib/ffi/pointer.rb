@@ -103,7 +103,7 @@ module FFI
     # @return [Array]
     # Read an array of +type+ of length +length+.
     # @example
-    #  ptr.read_array_of_type(TYPE_UINT8, :get_uint8, 4) # -> [1, 2, 3, 4]
+    #  ptr.read_array_of_type(TYPE_UINT8, :read_uint8, 4) # -> [1, 2, 3, 4]
     def read_array_of_type(type, reader, length)
       ary = []
       size = FFI.type_size(type)
@@ -124,10 +124,9 @@ module FFI
     #  ptr.write_array_of_type(TYPE_UINT8, :put_uint8, [1, 2, 3 ,4])
     def write_array_of_type(type, writer, ary)
       size = FFI.type_size(type)
-      tmp = self
-      ary.each_with_index {|i, j|
-        tmp.send(writer, i)
-        tmp += size unless j == ary.length-1 # avoid OOB
+      ary.each_with_index { |val, i|
+        break unless i < self.size
+        self.send(writer, i * size, val)
       }
       self
     end
