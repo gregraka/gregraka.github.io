@@ -7,7 +7,7 @@ title: Quickstart for Administrators
 
 This section is for ownCloud administrators, persons who install and configure the ownCloud server.
 
-If you are an ownCloud user, please contact your administrator for information about how to connect to the ownCloud server.
+**If you are an ownCloud user, please contact your administrator for information about how to connect to the ownCloud server.**
 
 ## Important Note
 This document is a quickstart for installing and configuring an ownCloud server
