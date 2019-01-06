@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Welcome to ownCloud!
-
 The last file sharing platform you'll ever need.
 
 Choose one of the following links:
