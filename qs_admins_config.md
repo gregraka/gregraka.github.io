@@ -1,9 +1,9 @@
 ---
 layout: default-admin
-title: Step 3: Post-Installation Configuration
+title: Step 3: Server Post-Installation Configuration
 ---
 
-# Step 3: Post-Installation Configuration
+# Step 3: Server Post-Installation Configuration
 This topic under construction....
 
 ## Next Step: Enable Users to Connect

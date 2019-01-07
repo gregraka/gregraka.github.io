@@ -56,6 +56,6 @@ title: Step 2: Download and Install the ownCloud Server
 
 
 
-## Next Step: Enable Users to Connect
-Go to [Step 3: Enable Users to Connect to the ownCloud Server](./qs_admins_connect.html).
+## Next Step: Post-Installation Configuration
+Go to [Step 3: Server Post-Installation Configuration](./qs_admins_config.html).
 
