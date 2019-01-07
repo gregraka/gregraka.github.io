@@ -7,7 +7,7 @@ title: Step 2: Install the Client
 After you have verified that your device meets the necessary [system requirements](./qs_users_sysreqs.html), 
 you must install the ownCloud client.
 
-The ownCloud client runs on your workstation, laptop, tablet, and so on and enables 
+The ownCloud client runs on your workstation, laptop, tablet, and so on, and enables 
 you to connect to a server where you can use ownCloud.
 
 ## Run the Client Installation Wizard
@@ -24,7 +24,7 @@ you to connect to a server where you can use ownCloud.
    ![File Explorer](./assets/images/install_program.png)
 
    After the wizard initializes and installs client files, you see the ownCloud 
-   Connection Wizard, **Connect to ownClud** page.
+   Connection Wizard, **Connect to ownCloud** page.
 
    ![Connect page](./assets/images/client-1.png)
 
@@ -41,8 +41,9 @@ you to connect to a server where you can use ownCloud.
      ownCloud server, then click **Choose what to sync**.
 
    - Where to sync data:
+
      If you want to use another location on your device other than the default
-     (C:\Users\_username_\ownCloud), then click the path button, and enter a 
+     (C:\Users\\_username_\ownCloud), then click the path button, and enter a 
      different folder path.
 
    When you are finished, click **Connect**.
