@@ -30,8 +30,10 @@ Make sure that your system meets the following quickstart system requirements:
       with service interruption
 
 - Hardware topology:
-  - One machine that contains the application, web, and database server, and local storage.
-  - Separate machine that contains your site's pre-existing LDAP or Active Directory server.
+  - One machine that contains the application, web, and database server, and 
+    local storage.
+  - Separate machine that contains your site's pre-existing LDAP or Active 
+    Directory server.
 
 - Hardware specifications:
   - One server-grade machine with: 
@@ -39,14 +41,21 @@ Make sure that your system meets the following quickstart system requirements:
     - 16GB RAM
     - Local storage (as needed)
 
-- Transport Layer Security (formerly known as SSL): TLS is provided with Apache, using a standard certificate according to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
+- Transport Layer Security (formerly known as SSL): TLS is provided with Apache, 
+  using a standard certificate according to the 
+  [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
 
-- Authentication: User authentication using LDAP or Active Directory. See [User Authentication with LDAP](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_auth_ldap.html).
+- Authentication: User authentication using LDAP or Active Directory. See 
+  [User Authentication with LDAP](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_auth_ldap.html).
 
-- Session Management: Local session management on the application server. PHP sessions are stored in a temporary filesystem, mounted at the operating system-specific session storage location. You can find out where that is by running grep -R 'session.save_path' /etc/php5 and then add it to the /etc/fstab file, for example:
-  ````
+- Session Management: Local session management on the application server. PHP 
+  sessions are stored in a temporary filesystem, mounted at the operating 
+  system-specific session storage location. 
+
+  You can find out where that is by running **grep -R 'session.save_path' /etc/php5** and then add it to the **/etc/fstab** file, for example:
+  ```
   echo "tmpfs /var/lib/php5/pool-www tmpfs defaults,noatime,mode=1777 0 0" >> /etc/fstab``.
-  ````
+  ```
 - Memory Caching: A memory cache speeds up server performance, and ownCloud supports four of them. See [Configuring Memory Caching](https://doc.owncloud.org/server/10.0/admin_manual/configuration/server/caching_configuration.html).
 
 
