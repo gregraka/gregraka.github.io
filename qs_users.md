@@ -15,10 +15,10 @@ If you want information on how to customize your client installation, see [Custo
 
 ## Overview
 Installing the ownCloud client and connecting to an ownCloud server consists of these steps:
-1. Verify that your device meets the system requirements.
-2. Install and configure the ownCloud client.
+1. Download and install the ownCloud client.
+2. Configure the ownCloud client.
 
-## Next Step: Verify System Requirements
-Go to [Step 1: Verify Client System Requirements](./qs_users_install.html).
+## Next Step: Download and Install the Client
+Go to [Step 1: Download and Install the ownCloud Client](./qs_users_sysreqs.html).
 
 
