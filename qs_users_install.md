@@ -4,13 +4,13 @@ title: Step 2: Configure the Client
 ---
 
 # Step 2: Configure the Client
-Step 2 is a continuation of the previous step, where you 
+This topic is a continuation of the previous step, where you 
 [downloaded and installed the ownCloud client](./qs_users_sysreqs.html).
 
    **Important: The Connection Wizard should still be running from when you installed
-   the client. If it is not, contatct your ownCloud administrator.
+   the client. If it is not, contatct your ownCloud administrator.**
 
-In step 2, you must configure the ownCloud client to be able to connect to the ownCloud 
+In this topic, you must configure the ownCloud client to be able to connect to the ownCloud 
 server. You configure the client using the configuration program, the **ownCloud Connection Wizard**.
 
 ## Run the Connection Wizard
@@ -21,9 +21,13 @@ server. You configure the client using the configuration program, the **ownCloud
 
    Contact your ownCloud administrator if you do not have this information.
 
-   ![Connect page](./assets/images/client-1.png)
+   As discussed the Connect Wizard should still be running from the previous topic.
+
+   ![Connect page](./assets/images/connect_1.png)
 
 3. In the **Connect to ownCloud** page, enter the server address and click **Next**.
+
+   ![Connect page](./assets/images/client-1.png)
 
 4. On the next wizard page, enter your username and password and click **Next**.
 
