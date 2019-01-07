@@ -1,5 +1,5 @@
 ---
-layout: default-user
+layout: default-user2
 title: Step 1: Verify Client System Requirements
 ---
 
