@@ -29,6 +29,8 @@ Make sure that your system meets the following quickstart system requirements:
     - Alternate backup scheme on other filesystems: nightly backups
       with service interruption
 
+   **NOTE:** For information about backups, see Backup in [Scenario 1: Small Workgroups and Departments](https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html#scenario-1-small-workgroups-and-departments).
+    
 - Hardware topology:
   - One machine that contains the application, web, and database server, and 
     local storage.

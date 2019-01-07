@@ -51,11 +51,7 @@ title: Step 2: Download and Install the ownCloud Server
    ```
    cp -r owncloud /var/www
    ```
-
-
-
-
-
 ## Next Step: Post-Installation Configuration
-Go to [Step 3: Server Post-Installation Configuration](./qs_admins_config.html).
+Congratulations! You have installed the ownCloud server. Go to 
+[Step 3: Server Post-Installation Configuration](./qs_admins_config.html).
 
