@@ -35,9 +35,9 @@ Make sure that your system meets the following quickstart system requirements:
 
 - Hardware specifications:
   - One server-grade machine with: 
-  - Two CPU cores (minimum)
-  - 16GB RAM
-  - Local storage (as needed)
+    - Two CPU cores (minimum)
+    - 16GB RAM
+    - Local storage (as needed)
 
 - Transport Layer Security (formerly known as SSL)
   TLS is provided with Apache, using a standard certificate according to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
