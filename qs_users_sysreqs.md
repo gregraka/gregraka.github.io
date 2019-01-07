@@ -14,5 +14,5 @@ Make sure that your client system meets the following system requirements:
 * Ubuntu 16.04, 17.04 and 17.10
 * openSUSE Leap 42.2 and 42.3
 
-# Next: Step 2: Installing the Client
-Go to [Installing the ownCloud Client](./qs_users_install.html).
+# Next Step: Installing the Client
+Go to [Step 2: Installing the ownCloud Client](./qs_users_install.html).
