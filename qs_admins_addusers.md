@@ -4,16 +4,25 @@ title: Step 5: Add ownCloud Users
 ---
 
 # Step 5: Add ownCloud Users
-This topic under construction....
+By default, the ownCloud web client is also installed on the ownCloud server machine.
+When you log into the web client with your administrator credentials, you can perform 
+tasks such as creating user accounts.
+
+   **NOTE:** There is also an ownCloud command line interface that you can use to perform
+   adminstration tasks. See [Using occ core commands](https://doc.owncloud.org/server/10.0/admin_manual/configuration/server/occ_command.html).
 
 ## Add a User
-To create a user account:
+To create a user account using the ownCloud web client, follow these steps:
 
-1. Enter the new user’s sign in name and their initial password (cannot be "0").
+1. With a web browser enter the ownCloud server HTTP address (for example, http://studio/owncloud).
 
-2. Optionally, assign Groups memberships
+2. When prompted, enter your administrator username and password.
 
-3. Click **Create**.
+3. Enter the new user’s sign in name and their initial password (cannot be "0").
+
+4. Optionally, assign Groups memberships
+
+5. Click **Create**.
 
 ## Give Information to ownCloud Users
 Remember to provide your users the following crucial information:
@@ -22,4 +31,4 @@ Remember to provide your users the following crucial information:
 
 Congratulations! Your site's ownCloud server is ready to use.
 
-For future reference, bookmark the [ownCloud Server Admin Manual](https://doc.owncloud.org/server/administration_manual/index.html).
+For future reference, bookmark the [ownCloud Server Administration Manual](https://doc.owncloud.org/server/10.0/admin_manual/contents.html).
