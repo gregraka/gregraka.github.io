@@ -7,12 +7,12 @@ title: Step 1: Verify Server Quickstart System Requirements
 Make sure that your system meets the following quickstart system requirements:
 
 - One of the following operating systems:
-  - SLES 12 with SP1, SP2 and SP3
   - RHEL 6.9, 7.3, 7.4, and 7.5
+  - SLES 12 with SP1, SP2 and SP3
 
 - Web server: Apache 2.4.
 
-- Database: MySQL/MariaDB with InnoDB storage engine 
+- Database: MySQL/MariaDB with InnoDB storage engine
   (MyISAM is not supported.) See [MySQL / MariaDB storage engine](https://doc.owncloud.org/server/10.0/admin_manual/configuration/database/linux_database_configuration.html#db-storage-engine-label).
 
 - PHP 5.6+.
@@ -33,9 +33,9 @@ Make sure that your system meets the following quickstart system requirements:
   - One machine that contains the application, web, and database server, and local storage.
   - Separate machine that contains your site's pre-existing LDAP or Active Directory server.
 
-- Hardware specification:
-  - One server with: 
-  - Mimimum of 2 CPU cores
+- Hardware specifications:
+  - One server-grade machine with: 
+  - Two CPU cores (minimum)
   - 16GB RAM
   - Local storage (as needed)
 
