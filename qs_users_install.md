@@ -1,11 +1,11 @@
 ---
 layout: default-user
-title: Step 2: Install the Client
+title: Step 2: Configure the Client
 ---
 
-# Step 2: Install the Client
-After you have verified that your device meets the necessary [system requirements](./qs_users_sysreqs.html), 
-you must install the ownCloud client.
+# Step 2: Configure the Client
+After you have [downloaded and installed the ownCloud client](./qs_users_sysreqs.html), 
+you must configure the ownCloud client.
 
 The ownCloud client runs on your workstation, laptop, tablet, and so on, and enables 
 you to connect to a server where you can use ownCloud.
