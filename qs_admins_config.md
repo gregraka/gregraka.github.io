@@ -47,6 +47,12 @@ Perform the following tasks on your Apache web server:
 * If you run ownCloud in a sub-directory and want to use CalDAV or CardDAV 
   clients, make sure you have configured the correct [Service discovery](https://doc.owncloud.org/server/10.0/admin_manual/issues/general_troubleshooting.html#service-discovery-label) URLs.
 
+* Multi-Processing Module (MPM)
+  Apache prefork has to be used. Don’t use a threaded **MPM** like **event** 
+  or **worker** with **mod_php**, because PHP is currently 
+  [not thread safe](https://secure.php.net/manual/en/install.unix.apache2.php).
+
+Enable SSL
 
 ## Establish the Administrator Credentials
 
