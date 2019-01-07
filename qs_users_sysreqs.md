@@ -1,5 +1,6 @@
 ---
 layout: user2
+permalink: /
 title: Step 1: Verify Client System Requirements
 ---
 
