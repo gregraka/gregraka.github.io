@@ -16,6 +16,37 @@ You must perform the following configuration after installing the ownCloud serve
 * Identify trusted domains
 
 ## Configure Apache Web Server
+Perform the following tasks on your Apache web server:
+* Enable the **mod_rewrite** module:
+  ```
+  a2enmod rewrite
+  ```
+* Enable the following recommend modules:
+  ```
+  a2enmod headers
+  a2enmod env
+  a2enmod dir
+  a2enmod mime
+  ```
+  **TIP:**If you want to use the OAuth2 app, then mod_headers must be 
+  installed and enabled.
+
+* You must disable any server-configured authentication for ownCloud, 
+  as it uses Basic authentication internally for DAV services. If 
+  you have turned on authentication on a parent folder (for example, 
+  an AuthType Basic directive), you can disable the authentication 
+  specifically for the ownCloud entry. In the Apache configuration file, 
+  add the following line in the <Directory> section:
+  ```
+  Satisfy Any
+  ```
+* When you are finished, remember to restart Apache:
+  ```
+  service apache2 restart
+  ```
+* If you run ownCloud in a sub-directory and want to use CalDAV or CardDAV 
+  clients, make sure you have configured the correct [Service discovery](https://doc.owncloud.org/server/10.0/admin_manual/issues/general_troubleshooting.html#service-discovery-label) URLs.
+
 
 ## Establish the Administrator Credentials
 
