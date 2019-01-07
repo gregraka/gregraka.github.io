@@ -14,3 +14,6 @@ Make sure that your system meets the following system requirements:
 |                  | RHEL/Centos 6.9, 7.3, 7.4, and 7.5 |
 |                  | Fedora 27, 28, and 29              |
 |                  | openSUSE Leap 42.3 and 15          |
+
+## Next Step: Install the Server
+Go to [Step 2: Install the ownCloud Server](./qs_admins_install.html).
