@@ -11,6 +11,7 @@ the default Apache HTTP port, 8080. If you want to secure your server, see
 You must perform the following configuration after installing the ownCloud server:
 * Configure Apache web server
 * Establish the administrator credentials
+* Specify the database type and data location
 * Set strong directory permissions
 * Identify trusted domains
 
@@ -18,9 +19,11 @@ You must perform the following configuration after installing the ownCloud serve
 
 ## Establish the Administrator Credentials
 
+## Specify the Database type and Data Location
+
 ## Set Strong Directory Permissions
 
 ## Identify Trusted Domains
 
-## Next Step: Enable Users to Connect
-Go to [Step 4: Enable Users to Connect to the ownCloud Server](./qs_admins_addusers.html).
+## Next Step: Step 4: Add ownCloud Users
+Go to [Step 4: Add ownCloud Users](./qs_admins_addusers.html).
