@@ -59,5 +59,5 @@ Make sure that your system meets the following quickstart system requirements:
 - Memory Caching: A memory cache speeds up server performance, and ownCloud supports four of them. See [Configuring Memory Caching](https://doc.owncloud.org/server/10.0/admin_manual/configuration/server/caching_configuration.html).
 
 
-## Next Step: Install the Server
-Go to [Step 2: Install the ownCloud Server](./qs_admins_install.html).
+## Next Step: Download and Install the Server
+Go to [Step 2: Download and Install the ownCloud Server](./qs_admins_install.html).

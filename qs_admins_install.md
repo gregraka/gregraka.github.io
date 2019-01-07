@@ -1,6 +1,6 @@
 ---
 layout: default-admin
-title: Step 2: Donwload and Install the ownCloud Server
+title: Step 2: Download and Install the ownCloud Server
 ---
 
 # Step 2: Download and Install the ownCloud Server
