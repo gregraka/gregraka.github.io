@@ -29,7 +29,7 @@ administrator.**
    **Note:** If you cannot double-click on the downloaded file in your web browser, 
    open Windows File Explorer, navigate to the Downloads folder.
 
-   ![File Explorer](./assets/images/install_program.png)
+   ![File Explorer](./assets/images/download.png)
 
    The welcome page of the ownCloud Setup Wizard displays.
 
