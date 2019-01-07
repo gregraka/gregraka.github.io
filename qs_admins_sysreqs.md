@@ -40,7 +40,7 @@ Make sure that your system meets the following quickstart system requirements:
   - Local storage (as needed)
 
 - Transport Layer Security (formerly known as SSL)
-  TLS is provide with Apache, using a standard certificate accord to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
+  TLS is provided with Apache, using a standard certificate according to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
 
 ## Next Step: Install the Server
 Go to [Step 2: Install the ownCloud Server](./qs_admins_install.html).
