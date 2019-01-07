@@ -30,7 +30,7 @@ Wizard**.
 
 3. In the **Connect to ownCloud** page, enter the server address and click **Next**.
 
-   ![Connect page](./assets/images/client-1.png)
+   ![Connect page](./assets/images/client-1a.png)
 
 4. On the next wizard page, enter your username and password and click **Next**.
 
