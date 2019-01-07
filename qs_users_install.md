@@ -52,7 +52,6 @@ Wizard**.
 
    ![Folder options  page](./assets/images/client-3.png)
 
-
    The client attempts to connect to your ownCloud server.
    When the connection is successful you see two buttons:
 
@@ -61,9 +60,6 @@ Wizard**.
 
    The ownCloud client begins synchronizing the data in your local folder with the 
    ownCloud server.
-   
-6. Be sure to restart your Windows device to enable explorer intergration 
-   with ownCloud.
 
 ## What's Next?
 Congratulations! You have successfully connected to the server. 

@@ -60,8 +60,6 @@ administrator.**
 
    ![Installing ownCloud page](./assets/images/install_5.png)
 
-   Congratulations! You have installed the ownCloud client.
-
 7. Click **Finish**.
 
    An alert box displays.
@@ -73,5 +71,7 @@ administrator.**
    Your device restarts. 
 
 ## Next Step: Configure the Client
+Congratulations! You have installed the ownCloud client.
+
 Go to [Step 2: Configure the ownCloud Client](./qs_users_install.md).
 
