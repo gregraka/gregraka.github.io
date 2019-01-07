@@ -16,7 +16,7 @@ administrator.**
 
 
 ## Download the Client Installation Program
-1. Open a web browser and go to the following web site:
+1. **On your Windows device**, open a web browser and go to the following web site:
 
    ````
    https://owncloud.org/download/#owncloud-desktop-client-windows
