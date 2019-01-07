@@ -12,8 +12,8 @@ Make sure that your system meets the following quickstart system requirements:
 
 - Web server: Apache 2.4.
 
-- Database: MySQL/MariaDB with InnoDB storage engine
-  (MyISAM is not supported.) See [MySQL / MariaDB storage engine](https://doc.owncloud.org/server/10.0/admin_manual/configuration/database/linux_database_configuration.html#db-storage-engine-label).
+- Database: MySQL/MariaDB with InnoDB storage engine (MyISAM is not supported.) 
+  See [MySQL / MariaDB storage engine](https://doc.owncloud.org/server/10.0/admin_manual/configuration/database/linux_database_configuration.html#db-storage-engine-label).
 
 - PHP 5.6+.
 
