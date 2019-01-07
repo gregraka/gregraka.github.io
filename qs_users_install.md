@@ -18,11 +18,13 @@ you to connect to a server where you can use ownCloud.
 
    Contact your ownCloud administrator if you do not have this information.
 
-2. Open Windows File Explorer, navigate to the folder where the installation program resides, and double-click ownCloud-x.y.z.msi.
+2. Open Windows File Explorer, navigate to the folder where the installation program 
+   resides, and double-click ownCloud-x.y.z.msi.
 
    ![File Explorer](./assets/images/install_program.png)
 
-   After the wizard initializes and installs sever files, you see the ownCloud Connection Wizard, **Connect to ownClud** page.
+   After the wizard initializes and installs client files, you see the ownCloud 
+   Connection Wizard, **Connect to ownClud** page.
 
    ![Connect page](./assets/images/client-1.png)
 
@@ -54,9 +56,11 @@ you to connect to a server where you can use ownCloud.
    - One button enables you to launch the ownCloud client.
    - Another button to open the local folder (the sync folder) on your device.
 
-   The ownCloud client begins synchronizing the data in your local folder with the ownCloud server.
+   The ownCloud client begins synchronizing the data in your local folder with the 
+   ownCloud server.
    
 ## What's Next?
 Congratulations! You have successfully installed the client and connected to the server. 
 
-To being using ownCloud, see [Using the Synchronization Client](https://doc.owncloud.org/desktop/2.5/navigating.html).
+To being using ownCloud, see 
+[Using the Synchronization Client](https://doc.owncloud.org/desktop/2.5/navigating.html).
