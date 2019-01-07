@@ -25,5 +25,5 @@ You must perform the following configuration after installing the ownCloud serve
 
 ## Identify Trusted Domains
 
-## Next Step: Step 4: Add ownCloud Users
+## Next Step: Add ownCloud Users
 Go to [Step 4: Add ownCloud Users](./qs_admins_addusers.html).
