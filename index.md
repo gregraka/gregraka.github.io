@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Welcome to ownCloud!
-The last file sharing platform you'll ever need.
-
+# ownCloud Quickstart
 Choose one of the following links:
 * [I am an administrator](./qs_admins.html)
 * [I am a user](./qs_users.html)
