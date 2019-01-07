@@ -22,7 +22,7 @@ Make sure that your system meets the following quickstart system requirements:
 
 - Small workgroups and departments following this criteria:
   - Users: up to 150
-  - Storage: 100 GB to 10 TB
+  - Storage: 100GB to 10TB
   - High availability:
     - Zero-downtime backups via Btrfs snapshots
     - Component failures leads to interruption of service
@@ -31,10 +31,13 @@ Make sure that your system meets the following quickstart system requirements:
 
 - Hardware topology:
   - One machine that contains the application, web, and database server, and local storage.
-  - Another machine that contains your site's pre-existing LDAP or Active Directory server.
+  - Separate machine that contains your site's pre-existing LDAP or Active Directory server.
 
 - Hardware specification:
-  One server with at least 2 CPU cores, 16GB RAM, and local storage as needed.
+  - One server with: 
+  - Mimimum of 2 CPU cores
+  - 16GB RAM
+  - Local storage (as needed)
 
 - Transport Layer Security (formerly known as SSL)
   TLS is provide with Apache, using a standard certificate accord to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
