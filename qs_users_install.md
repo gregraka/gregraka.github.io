@@ -55,6 +55,9 @@ server. You configure the client using the configuration program, the **ownCloud
    The ownCloud client begins synchronizing the data in your local folder with the 
    ownCloud server.
    
+6. Be sure to restart your Windows device to enable explorer intergration 
+   with ownCloud.
+
 ## What's Next?
 Congratulations! You have successfully connected to the server. 
 

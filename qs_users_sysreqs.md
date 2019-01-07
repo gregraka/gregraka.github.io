@@ -63,7 +63,7 @@ administrator.**
 
    ![Installing ownCloud page](./assets/images/restart.png)
 
-8. **Important** click **No**. 
+8. **Important:** click **No**. 
 
    You will restart your device **after** you complete the next section.
 
@@ -71,5 +71,5 @@ administrator.**
 
    Congratulations! You have installed the ownCloud client.
 
-9. **Important** Do not close the Connection Wizard. Go to [Step 2: Configure the Client](./qs_users_install.html).
+9. **Important:** Do not close the Connection Wizard. Go to [Step 2: Configure the Client](./qs_users_install.html).
 
