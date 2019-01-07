@@ -39,8 +39,7 @@ Make sure that your system meets the following quickstart system requirements:
     - 16GB RAM
     - Local storage (as needed)
 
-- Transport Layer Security (formerly known as SSL)
-  TLS is provided with Apache, using a standard certificate according to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
+- Transport Layer Security (formerly known as SSL): TLS is provided with Apache, using a standard certificate according to the [Apache documentation](https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html).
 
 - Authentication: User authentication using LDAP or Active Directory. See [User Authentication with LDAP](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/user_auth_ldap.html).
 
