@@ -20,4 +20,7 @@ Installing and configuring the ownCloud server consists of these steps:
 * Enable users to connect.
 * Add user accounts.
 
+## Get Started: Verify System Requirements
+Go to [Step 1: Step 1: Verify Server System Requirements](./qs_admins_sysreqs.html).
+
 

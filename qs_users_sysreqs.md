@@ -27,7 +27,7 @@ administrator.**
    ![ownCloud downloads website](./assets/images/download_site.png)
 
 
-3. Double-click on the file that you downloaded (for example, ownCloud-2.5.1.10973.10850.msi).
+3. Double-click on the .msi file that you downloaded (for example, ownCloud-2.5.1.10973.10850.msi).
 
    **Note:** If you cannot double-click on the downloaded file in your web browser, 
    open Windows File Explorer, navigate to the Downloads folder.
