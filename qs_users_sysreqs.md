@@ -1,10 +1,10 @@
 ---
-layout: default-admin
-title: Step 1: Verify Server System Requirements
+layout: default-user
+title: Step 1: Verify Client System Requirements
 ---
 
-# Step 1: Verify Server System Requirements
-Make sure that your system meets the following system requirements:
+# Step 1: Verify Client System Requirements
+Make sure that your client system meets the following system requirements:
 
 | Platform         | Options                            |
 |:-----------------|:-----------------------------------|
@@ -14,3 +14,5 @@ Make sure that your system meets the following system requirements:
 |                  | RHEL/Centos 6.9, 7.3, 7.4, and 7.5 |
 |                  | Fedora 27, 28, and 29              |
 |                  | openSUSE Leap 42.3 and 15          |
+
+
