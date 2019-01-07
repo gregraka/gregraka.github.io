@@ -1,18 +1,19 @@
 ---
-layout: default-user2
+layout: user2
 title: Step 1: Verify Client System Requirements
 ---
 
 # Step 1: Verify Client System Requirements
 Make sure that your client system meets the following system requirements:
 
-| Platform         | Options                            |
-|:-----------------|:-----------------------------------|
-| Operating System | Ubuntu 16.04 and 18.04             |
-|                  | Debian 7, 8, and 9                 |
-|                  | SLES 12 with SP1, SP2 and SP3      |
-|                  | RHEL/Centos 6.9, 7.3, 7.4, and 7.5 |
-|                  | Fedora 27, 28, and 29              |
-|                  | openSUSE Leap 42.3 and 15          |
+| Platform         | Options                       |
+|:-----------------|:------------------------------|
+| Operating System | Windows 7+                    |
+|                  | Mac OS X 10.7+ (64-bit only)  |
+|                  | CentOS 6 & 7 (64-bit only)    |
+|                  | Debian 8.0 & 9.0              |
+|                  | Fedora 25, 26, and 27         |
+|                  | Ubuntu 16.04, 17.04 and 17.10 |
+|                  | openSUSE Leap 42.2 and 42.3   |
 
 
