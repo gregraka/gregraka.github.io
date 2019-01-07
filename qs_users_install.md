@@ -4,31 +4,26 @@ title: Step 2: Configure the Client
 ---
 
 # Step 2: Configure the Client
-After you have [downloaded and installed the ownCloud client](./qs_users_sysreqs.html), 
-you must configure the ownCloud client.
+Step 2 is a continuation of the previous step, where you 
+[downloaded and installed the ownCloud client](./qs_users_sysreqs.html).
 
-The ownCloud client runs on your workstation, laptop, tablet, and so on, and enables 
-you to connect to a server where you can use ownCloud.
+   **Important: The Connection Wizard should still be running from when you installed
+   the client. If it is not, contatct your ownCloud administrator.
 
-## Run the Client Installation Wizard
+In step 2, you must configure the ownCloud client to be able to connect to the ownCloud 
+server. You configure the client using the configuration program, the **ownCloud Connection Wizard**.
+
+## Run the Connection Wizard
+
 1. Your ownCloud administrator has provided you with the following:
-   - the location of the client installation program (ownCloud-x.y.z.msi).
    - the address of the ownCloud server (for example, https://studio/owncloud).
    - your ownCloud username and password.
 
    Contact your ownCloud administrator if you do not have this information.
 
-2. Open Windows File Explorer, navigate to the folder where the installation program 
-   resides, and double-click ownCloud-x.y.z.msi.
-
-   ![File Explorer](./assets/images/install_program.png)
-
-   After the wizard initializes and installs client files, you see the ownCloud 
-   Connection Wizard, **Connect to ownCloud** page.
-
    ![Connect page](./assets/images/client-1.png)
 
-3. Enter the server address and click **Next**.
+3. In the **Connect to ownCloud** page, enter the server address and click **Next**.
 
 4. On the next wizard page, enter your username and password and click **Next**.
 
@@ -61,7 +56,7 @@ you to connect to a server where you can use ownCloud.
    ownCloud server.
    
 ## What's Next?
-Congratulations! You have successfully installed the client and connected to the server. 
+Congratulations! You have successfully connected to the server. 
 
-To being using ownCloud, see 
+To begin using ownCloud, see 
 [Using the Synchronization Client](https://doc.owncloud.org/desktop/2.5/navigating.html).

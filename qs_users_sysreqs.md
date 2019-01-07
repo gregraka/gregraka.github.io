@@ -59,8 +59,17 @@ administrator.**
 
 7. Select **Launch ownCloud after finish** and click **Finish**.
 
-## Next Step: Configure the Client
-Congratulations! You have installed the ownCloud client.
+   An alert box displays.
 
-Go to [Step 2: Configure the Client](./qs_users_install.html).
+   ![Installing ownCloud page](./assets/images/restart.png)
+
+8. **Important** click **No**. 
+
+   You will restart your device **after** you complete the next section.
+
+   The first page of the ownCloud Connection Wizard displays.
+
+   Congratulations! You have installed the ownCloud client.
+
+9. **Important** Do not close the Connection Wizard. Go to [Step 2: Configure the Client](./qs_users_install.html).
 
