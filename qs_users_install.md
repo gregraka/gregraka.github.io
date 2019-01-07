@@ -20,4 +20,6 @@ you to connect to a server where you can use ownCloud.
 
 2. Open Windows explorer, navigate to the folder where the installation program resides, and double-click ownCloud-x.y.z.msi.
 
-3. 
+3. ';aldsfja;ldfkjasdfkl
+
+   ![Connect page](./assets/images/client-1.png)
