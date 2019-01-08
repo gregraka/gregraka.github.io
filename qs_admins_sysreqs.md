@@ -6,9 +6,7 @@ title: Step 1: Verify Server Quickstart System Requirements
 # Step 1: Verify Server Quickstart System Requirements
 Make sure that your system meets the following quickstart system requirements:
 
-- One of the following operating systems:
-  - RHEL (RedHat Enterprise Linux) 7.2
-  - SLES (SUSE Linux Enterprise Server) 12 with SP1, SP2 and SP3
+- Operating system: RHEL (RedHat Enterprise Linux) 7.2
 
 - Web server: Apache 2.4.
 
