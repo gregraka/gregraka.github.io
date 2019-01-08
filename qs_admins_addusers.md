@@ -18,11 +18,11 @@ To create a user account using the ownCloud web client, follow these steps:
 
 2. When prompted, enter your administrator username and password.
 
-3. Navigate to **User Management** page.
+3. Navigate to the **User Management** page.
 
-3. Enter the new user's login name and their initial password (cannot be "0").
+3. Enter the new user's login name and the user's initial password (cannot be "0").
 
-4. Optionally, assign Groups memberships
+4. Optionally, assign group memberships
 
 5. Click **Create**.
 

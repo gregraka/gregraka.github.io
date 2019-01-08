@@ -4,9 +4,8 @@ title: Step 2: Download and Install the ownCloud Server
 ---
 
 # Step 2: Download and Install the ownCloud Server
-1. Make sure that the your target machine has the necessary operating system extensions present:
+1. Make sure that the your target machine has the necessary Red Hat Enterprise Linux (RHEL) 7.2 operating system extensions present:
 
-   - RHEL 7.2
      ```
      # Enable the RHEL Server 7 repository
      sudo subscription-manager repos --enable rhel-server-rhscl-7-eus-rpms
@@ -15,11 +14,7 @@ title: Step 2: Download and Install the ownCloud Server
      sudo yum install httpd mariadb-server php72 php72-php \
      php72-php-gd php72-php-mbstring php72-php-mysqlnd
      ```
-   - SLES 12
-     ```
-      sudo zypper install -y apache2 apache2-mod_php7 php7-gd php7-openssl \
-      php7-json php7-curl php7-intl php7-sodium php7-zip php7-zlib
-     ```
+
 2. Download the [tarball](https://owncloud.org/download/#owncloud-server-tar-ball).
 
    You should have a file named owncloud-x.y.z.tar.bz2 (where x.y.z is the version

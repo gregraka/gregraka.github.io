@@ -49,7 +49,7 @@ Perform the following tasks on your Apache web server:
   a2enmod dir
   a2enmod mime
   ```
-  **TIP:**If you want to use the OAuth2 app, then mod_headers must be 
+  **TIP:** If you want to use the OAuth2 app, then mod_headers must be 
   installed and enabled.
 
 * You must disable any server-configured authentication for ownCloud, 
@@ -85,13 +85,13 @@ To create the ownCloud server administrator account, follow these steps:
 
 3. Click **Finish setup**.
 
-## Specify the Database type and Data Location
+## Specify the Database Type and Data Location
 To specify the type of database and where the ownCloud date directory reside, follow these steps:
 
 1. The ownCloud data directory must exist. If it does not, create it before proceeding.
 
    **NOTE:** The data directory must be owned by your HTTP user. 
-   See the later sub-section, "Set Strong Directory Permissions."
+   See the earlier sub-section, "Set Strong Directory Permissions."
 
 2. On the ownCloud server machine, open a web browser and enter the following address:
    ```
