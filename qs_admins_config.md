@@ -52,7 +52,6 @@ Perform the following tasks on your Apache web server:
   or **worker** with **mod_php**, because PHP is currently 
   [not thread safe](https://secure.php.net/manual/en/install.unix.apache2.php).
 
-Enable SSL
 
 ## Establish the Administrator Credentials
 
