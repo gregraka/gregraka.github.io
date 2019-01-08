@@ -32,6 +32,10 @@ theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
+# Greg added based on recommendation from:
+# https://help.github.com/articles/page-build-failed-file-is-not-properly-utf-8-encoded/
+encoding: UTF-8
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
