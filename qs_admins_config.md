@@ -4,7 +4,7 @@ title: Step 3: Server Post-Installation Configuration
 ---
 
 # Step 3: Server Post-Installation Configuration
-**IMPORTANT:** For quickstart purposes, the ownCloud server is unsecured using 
+**IMPORTANT: For quickstart purposes, the ownCloud server is unsecured using 
 the default Apache HTTP port, 8080. If you want to secure your server, see 
 [Enable SSL](https://doc.owncloud.org/server/administration_manual/installation/manual_installation.html#enable-ssl).**
 
@@ -45,7 +45,8 @@ Perform the following tasks on your Apache web server:
   service apache2 restart
   ```
 * If you run ownCloud in a sub-directory and want to use CalDAV or CardDAV 
-  clients, make sure you have configured the correct [Service discovery](https://doc.owncloud.org/server/10.0/admin_manual/issues/general_troubleshooting.html#service-discovery-label) URLs.
+  clients, make sure you have configured the correct 
+  [Service discovery](https://doc.owncloud.org/server/10.0/admin_manual/issues/general_troubleshooting.html#service-discovery-label) URLs.
 
 * Multi-Processing Module (MPM)
   Apache prefork has to be used. Don’t use a threaded **MPM** like **event** 
