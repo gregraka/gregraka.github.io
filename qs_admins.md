@@ -1,6 +1,5 @@
 ---
 layout: default-admin
-permalink: /
 title: Quickstart for Administrators
 ---
 
