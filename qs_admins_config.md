@@ -1,6 +1,6 @@
 ---
 layout: default-admin
-title: Step 3: Server Post-Installation Configuration
+title: Step 3: Perform Server Post-Installation Configuration
 ---
 
 # Step 3: Server Post-Installation Configuration

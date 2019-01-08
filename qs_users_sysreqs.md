@@ -15,7 +15,7 @@ on a Windows device. If you are on a non-Windows device, see your ownCloud
 administrator.**
 
 
-## Download the Client Installation Program
+## Download the Client Installation Program and Install the Client
 1. **On your Windows device**, open a web browser and go to the following web site:
 
    ````
@@ -30,7 +30,7 @@ administrator.**
 3. Double-click on the .msi file that you downloaded (for example, ownCloud-2.5.1.10973.10850.msi).
 
    **Note:** If you cannot double-click on the downloaded file in your web browser, 
-   open Windows File Explorer, navigate to the Downloads folder.
+   open Windows File Explorer and navigate to the Downloads folder.
 
    ![File Explorer](./assets/images/download.png)
 
@@ -56,7 +56,7 @@ administrator.**
 
    ![Installing ownCloud page](./assets/images/install_4.png)
 
-   When ownCloud setup has finished, you see Completed page.
+   When ownCloud setup has finished, you see the Completed page.
 
    ![Installing ownCloud page](./assets/images/install_5.png)
 

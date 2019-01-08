@@ -10,14 +10,14 @@ This section is for ownCloud administrators, persons who install and configure t
 
 ## Important Note
 This document is a quickstart for installing and configuring an ownCloud server
-on a Linux system for small workgroups and departments. If your site does not 
+on a Red Hat Enterprise Linux 7.2 system for small workgroups and departments. If your site does not 
 fit this scenario, see the [ownCloud Server Administration Manual](https://doc.owncloud.org/server/10.0/admin_manual/contents.html).
 
 ## Overview
 Installing and configuring the ownCloud server consists of these steps:
 * Verify that your site meets the system requirements.
-* Install the ownCloud server. (This document describes using the install wizard.)
-* Enable users to connect.
+* Download and install the ownCloud Server.
+* Perform server post-installation configuration.
 * Add user accounts.
 
 ## Get Started: Verify System Requirements

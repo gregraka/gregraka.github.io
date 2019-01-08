@@ -37,7 +37,7 @@ title: Step 2: Download and Install the ownCloud Server
    tar -xjf owncloud-x.y.z.tar.bz2
    ```
 
-   This unpacks to a single owncloud directory. 
+   This unpacks to a single ownCloud directory. 
 
 6. Copy the ownCloud directory to its final destination. 
 
@@ -48,5 +48,5 @@ title: Step 2: Download and Install the ownCloud Server
    ```
 ## Next Step: Post-Installation Configuration
 Congratulations! You have installed the ownCloud server. Go to 
-[Step 3: Server Post-Installation Configuration](./qs_admins_config.html).
+[Step 3: Perform Server Post-Installation Configuration](./qs_admins_config.html).
 

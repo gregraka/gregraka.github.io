@@ -26,8 +26,8 @@ To create a user account using the ownCloud web client, follow these steps:
 
 5. Click **Create**.
 
-## Give Information to ownCloud Users
-Remember to provide your users the following crucial information:
+## What's Next?
+**Remember to provide your users the following crucial information:**
 * HTTP address to the ownCloud server (for example, http://studio/owncloud).
 * Usernames and their passwords.
 
