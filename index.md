@@ -16,3 +16,5 @@ Choose one of the following links:
 * [I am an administrator](./qs_admins.html)
 * [I am a user](./qs_users.html)
 
+
+<p>[![HitCount](http://hits.dwyl.io/gregraka/gregraka.github.io.svg)](http://hits.dwyl.io/gregraka/gregraka.github.io)
